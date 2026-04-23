@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "rochit",
+  "type": "commonjs",
+  "main": "yes",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
